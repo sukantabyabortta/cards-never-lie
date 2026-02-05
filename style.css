@@ -2799,9 +2799,9 @@ font-family: 'Raleway', sans-serif;
         font-size: 36px;
         line-height: 90px;
     }
-    .insights_panel {
+    /* .insights_panel {
         height: 1084px;
-    }
+    } */
     .highlights_slider {
         max-width: 1400px;
     }
