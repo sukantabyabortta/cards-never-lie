@@ -186,22 +186,22 @@ select {
     vertical-align: middle
 }
 
- ::-webkit-input-placeholder {
+::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
     color: #676767;
 }
 
- ::-moz-placeholder {
+::-moz-placeholder {
     /* Firefox 19+ */
     color: #676767;
 }
 
- :-ms-input-placeholder {
+:-ms-input-placeholder {
     /* IE 10+ */
     color: #676767;
 }
 
- :-moz-placeholder {
+:-moz-placeholder {
     /* Firefox 18- */
     color: #676767;
 }
@@ -293,7 +293,7 @@ z-index: 2;
 }
 
 .site_logo {
-    width: 197px;
+    width: 300px;
     float: left;
 }
 
@@ -1311,6 +1311,7 @@ border-bottom: 25px solid transparent;
     #js-pointer-detector {
         display: block;
     }
+
     .js-videoPoster {
         display: none;
     }
@@ -2778,67 +2779,84 @@ font-family: 'Raleway', sans-serif;
     .header {
         padding: 0 120px;
     }
+
     .h_txt h2 {
         font-size: 64px;
         margin: 0 0 35px;
     }
+
     .h_txt h3 {
         font-size: 39px;
         margin: 0 0 45px;
     }
+
     .group_panel blockquote {
         font-size: 30px;
     }
+
     a.button1 {
         width: 300px;
         height: 85px;
         font-size: 30px;
         padding: 14px 0;
     }
+
     .insights_panel li {
         font-size: 36px;
         line-height: 90px;
     }
+
     /* .insights_panel {
         height: 1084px;
     } */
     .highlights_slider {
         max-width: 1400px;
     }
+
     .highlight_box h4 {
         font-size: 39px;
     }
+
     a.more_btn {
         font-size: 26px;
     }
+
     .custom_panel1 p {
         font-size: 30px;
     }
+
     .footer {
         padding: 70px 0;
     }
+
     .header {
         max-width: 1680px;
     }
+
     .founder_info {
         height: 1554px;
     }
+
     .inner_page p {
         font-size: 24px;
         line-height: 49px;
     }
+
     .inner_page h2 {
         font-size: 41px;
         line-height: 55px;
     }
+
     .inner_page strong {
         font-size: 30px;
         line-height: 47px;
         margin: 0 0 25px;
     }
+
     .inner_page .banner_content {
         padding: 250px 0 110px;
     }
+
     .custom_panel2 {
         padding: 85px 0 105px;
     }
@@ -2849,101 +2867,126 @@ font-family: 'Raleway', sans-serif;
         padding: 0 50px;
         top: 70px;
     }
+
     .site_logo {
         width: 155px;
     }
+
     .header_nav li a {
         font-size: 19px;
     }
+
     .banner_content {
         padding: 229px 0 106px;
     }
+
     .banner_txt p {
         font-size: 20px;
         line-height: 42px;
         margin-bottom: 28px;
     }
+
     .h_txt h2 {
         font-size: 45px;
         margin: 0 0 20px;
     }
+
     .h_txt h3 {
         font-size: 30px;
         line-height: 44px;
         margin: 0 0 45px;
     }
+
     .group_panel p {
         font-size: 20px;
     }
+
     .group_panel {
         padding: 70px 0 90px;
     }
+
     .group_panel blockquote {
         font-size: 27px;
         line-height: 47px;
     }
+
     a.button1 {
         width: 250px;
         height: 68px;
         font-size: 22px;
         padding: 5px 0;
     }
+
     .insights_panel {
         /* height: 800px; */
         padding: 80px 0;
         text-align: center;
         font-size: 0;
     }
+
     .insights_panel ul {
         display: inline-block;
     }
+
     .insights_panel li {
         font-size: 27px;
         line-height: 75px;
         text-align: left;
     }
+
     .testimonial_panel {
         padding: 80px 0 90px;
     }
+
     .testimonial_slider p {
         font-size: 27px;
         line-height: 45px;
         padding: 100px 220px;
     }
+
     .testimonial_slider strong {
         font-size: 24px;
     }
+
     .testimonial_slider span {
         font-size: 17px;
     }
+
     .testimonial_slider .slick-dots li button,
     .highlights_slider .slick-dots li button {
         width: 16px;
         height: 16px;
     }
+
     .testimonial_slider .slick-dots li.slick-active button,
     .highlights_slider .slick-dots li.slick-active button {
         width: 19px;
         height: 19px;
     }
+
     .highlights_panel {
         padding: 90px 0;
     }
+
     .highlights_slider {
         max-width: 1170px;
     }
+
     .highlights_panel p {
         font-size: 22px;
     }
+
     .highlight_box h4 {
         font-size: 28px;
         line-height: 43px;
     }
+
     .highlight_box p {
         font-size: 20px;
         line-height: 36px;
         margin: 0 0 28px;
     }
+
     .highlights_slider .slick-prev,
     .highlights_slider .slick-next {
         background-size: contain;
@@ -2952,18 +2995,22 @@ font-family: 'Raleway', sans-serif;
         padding: 0;
         top: 97px;
     }
+
     .highlights_slider .slick-prev:hover,
     .highlights_slider .slick-next:hover {
         background-size: contain;
     }
+
     .custom_panel1 {
         padding: 130px 0 110px;
     }
+
     .custom_panel1 p {
         font-size: 24px;
         line-height: 47px;
         margin-bottom: 45px;
     }
+
     a.button1 {
         width: 225px;
         height: 61px;
@@ -2971,64 +3018,81 @@ font-family: 'Raleway', sans-serif;
         padding: 3px 0;
         line-height: 54px;
     }
+
     .footer_nav a {
         font-size: 20px;
         line-height: 25px;
     }
+
     .footer_nav li {
         padding: 0 17px 21px;
     }
+
     .footer_nav {
         padding-bottom: 23px;
     }
+
     .social_follow a {
         width: 50px;
         height: 50px;
         margin: 0 12px;
     }
+
     .social_follow a img {
         width: 50px;
         height: 50px;
     }
+
     .social_follow {
         padding-bottom: 55px;
     }
+
     .footer_logo a {
         width: 250px;
     }
+
     .footer p {
         font-size: 16px;
     }
+
     .founder_info {
         height: 1243px;
     }
+
     .custom_panel2 p,
     .founder_info p {
         font-size: 20px;
         line-height: 41px;
     }
+
     .founder_info {
         height: 1168px;
     }
+
     .inner_page .banner_content.odd {
         padding: 200px 0 105px;
     }
+
     .inner_page h2 {
         font-size: 34px;
         line-height: 45px;
     }
+
     .inner_page .txt_box p {
         font-size: 20px;
         line-height: 35px;
         margin: 0 0 20px;
     }
+
     .membership_panel {
         padding: 93px 0 70px;
     }
+
     .c_tab_container .column {
         width: 490px;
         height: 442px;
     }
+
     .c_tab_container .column h3 {
         height: auto;
         font-size: 30px;
@@ -3036,17 +3100,21 @@ font-family: 'Raleway', sans-serif;
         padding: 21px 25px;
         margin-bottom: 30px;
     }
+
     .c_tab_container .column ul {
         padding: 0 25px;
     }
+
     .c_tab_container .column span {
         font-size: 45px;
         line-height: 60px;
         padding: 0 25px;
     }
+
     .c_tab_container .column span sub {
         font-size: 24px;
     }
+
     .c_tab_container .column a.subs_btn {
         width: 200px;
         height: 63px;
@@ -3054,36 +3122,44 @@ font-family: 'Raleway', sans-serif;
         padding: 12px 0;
         margin-right: 25px;
     }
+
     .c_tab_container .column li {
         font-size: 20px;
         line-height: 32px;
         padding: 0 0 15px 29px;
     }
+
     .inner_page_content p,
     .inner_page_content li {
         font-size: 19px;
         line-height: 35px;
         margin: 0 0 20px;
     }
+
     .post_listing_panel {
         padding: 80px 0;
     }
+
     .post_listing {
         max-width: 1200px;
     }
+
     .post_listing .rows2 .column2 h3 {
         font-size: 35px;
         line-height: 45px;
         margin: 0 0 7px;
     }
+
     .post_listing .rows2 .column2 p {
         font-size: 22px;
         line-height: 40px;
         margin: 0 0 15px;
     }
+
     .post_listing .rows2 {
         margin: 0 -1.5%;
     }
+
     .post_listing .rows2 .column2 {
         width: 30.3%;
         margin: 0 1.5% 60px;
@@ -3095,18 +3171,23 @@ font-family: 'Raleway', sans-serif;
         padding: 0 30px;
         top: 40px;
     }
+
     .site_logo {
         width: 120px;
     }
+
     .header_nav li a {
         font-size: 18px;
     }
+
     .header_nav {
         padding: 27px 0px 0 0;
     }
+
     .h_r_btn {
         padding-top: 16px;
     }
+
     .h_r_btn a {
         width: 126px;
         height: 44px;
@@ -3114,39 +3195,49 @@ font-family: 'Raleway', sans-serif;
         padding: 14px 0;
         margin-left: 20px;
     }
+
     .banner_content {
         padding: 150px 0 75px;
     }
+
     .container {
         max-width: 1024px;
     }
+
     .banner_txt {
         width: 64%;
     }
+
     .banner_txt h1 {
         font-size: 40px;
         line-height: 67px;
         margin: 0 0 20px;
     }
+
     .banner_txt p {
         font-size: 20px;
         line-height: 35px;
         margin-bottom: 20px;
     }
+
     .banner_img {
         width: 30%;
     }
+
     a.more_btn {
         font-size: 22px;
     }
+
     .group_panel blockquote {
         font-size: 24px;
         line-height: 44px;
     }
+
     .group_panel blockquote {
         padding: 66px 0;
         margin: 15px 0 45px;
     }
+
     .group_panel blockquote::before,
     .testimonial_slider p::before,
     .group_panel blockquote::after,
@@ -3155,33 +3246,40 @@ font-family: 'Raleway', sans-serif;
         width: 34px;
         height: 45px;
     }
+
     a.button1 {
         width: 200px;
         height: 60px;
         font-size: 18px;
         padding: 0px 0;
     }
+
     .h_txt h2 {
         font-size: 40px;
         margin: 0 0 10px;
     }
+
     .h_txt h3 {
         font-size: 26px;
         line-height: 38px;
         margin: 0 0 27px;
     }
+
     .testimonial_slider p {
         font-size: 24px;
         line-height: 45px;
         padding: 70px 100px;
     }
+
     .testimonial_slider strong {
         font-size: 22px;
         line-height: 30px;
     }
+
     .highlights_slider {
         max-width: 1000px;
     }
+
     .highlights_slider .slick-prev,
     .highlights_slider .slick-next {
         background-size: contain;
@@ -3190,69 +3288,86 @@ font-family: 'Raleway', sans-serif;
         padding: 0;
         top: 76px;
     }
+
     .highlights_slider .slick-prev:hover,
     .highlights_slider .slick-next:hover {
         background-size: contain;
         width: 18px;
         height: 35px;
     }
+
     .custom_panel1 {
         padding: 90px 0 70px;
     }
+
     .inner_page p {
         font-size: 20px;
         line-height: 36px;
     }
+
     .inner_page strong {
         font-size: 26px;
         line-height: 37px;
         margin: 0 0 20px;
     }
+
     .inner_page .banner_content {
         padding: 150px 0 80px;
     }
+
     .inner_page h1 {
         font-family: 'Oswald', sans-serif;
         font-size: 40px;
         line-height: 50px;
         margin: 0 0 20px;
     }
+
     .inner_page h2 {
         font-size: 30px;
         line-height: 45px;
         margin-bottom: 20px;
     }
+
     .custom_panel2 {
         padding: 60px 0 70px;
     }
+
     .founder_info strong {
         right: 36%;
         bottom: 30%;
         font-size: 24px;
     }
+
     .founder_info strong span {
         font-size: 20px;
     }
+
     .founder_info {
         background-position: center -75px;
     }
+
     .inner_page .txt_box {
         width: 60%;
     }
+
     .inner_page figure {
         width: 34%;
     }
+
     .c_tab_container .rows {
         margin: 0 -40px;
     }
+
     .c_tab_container .column {
         width: 437px;
         height: 420px;
         margin: 0 20px 40px;
     }
+
     .c_tab_container .column .bottom_box {
         bottom: 25px;
     }
+
     .c_tab_container .column a.subs_btn {
         width: 175px;
         height: 57px;
@@ -3260,38 +3375,47 @@ font-family: 'Raleway', sans-serif;
         padding: 9px 0;
         margin-right: 25px;
     }
+
     .c_tab_container .column li {
         font-size: 18px;
         line-height: 28px;
     }
+
     .c_tab_container .column li::before {
         width: 10px;
         height: 10px;
         top: 10px;
     }
+
     .inner_page .banner_content.odd {
         padding: 154px 0 64px;
     }
+
     .c_tab_btn a {
         width: 130px;
         height: 55px;
         font-size: 20px;
         padding: 17px 0;
     }
+
     .c_tab_btn a:last-child img {
         width: 48px;
         height: auto;
     }
+
     .c_tab_btn {
         margin: 30px 0 50px;
     }
+
     .post_listing {
         max-width: 1100px;
     }
+
     .post_listing .rows2 .column2 h3 {
         font-size: 30px;
         line-height: 35px;
     }
+
     .post_listing .rows2 .column2 p {
         font-size: 20px;
         line-height: 33px;
@@ -3303,16 +3427,20 @@ font-family: 'Raleway', sans-serif;
     .highlights_slider .slick-prev {
         left: -20px;
     }
+
     .highlights_slider .slick-next {
         right: -20px;
     }
+
     .founder_info {
         height: 1069px;
         padding: 65px 0;
     }
+
     .pagination {
         margin: 0;
     }
+
     .pagination a {
         margin: 0 7px;
         width: 44px;
@@ -3321,6 +3449,7 @@ font-family: 'Raleway', sans-serif;
         line-height: 28px;
         padding: 10px 5px;
     }
+
     .post_listing {
         max-width: 1024px;
     }
@@ -3330,6 +3459,7 @@ font-family: 'Raleway', sans-serif;
     .site_logo {
         width: 100px;
     }
+
     .h_r_btn a {
         width: 110px;
         height: 41px;
@@ -3337,18 +3467,23 @@ font-family: 'Raleway', sans-serif;
         padding: 14px 0;
         margin-left: 15px;
     }
+
     .header_nav {
         padding: 21px 0px 0 0;
     }
+
     .header_nav li {
         padding: 0 15px;
     }
+
     .header_nav li a {
         font-size: 17px;
     }
+
     .h_r_btn {
         padding-top: 11px;
     }
+
     .banner_content,
     .group_panel,
     .insights_panel,
@@ -3357,67 +3492,84 @@ font-family: 'Raleway', sans-serif;
         padding-left: 15px !important;
         padding-right: 15px !important;
     }
+
     .banner_img::after {
         width: 20px;
         height: 150px;
         right: 10px;
         bottom: 30px;
     }
+
     .header_nav li {
         padding: 0 15px;
     }
+
     .highlights_slider {
         max-width: 900px;
     }
+
     .highlight_box h4 {
         font-size: 24px;
         line-height: 37px;
     }
+
     .highlight_box {
         margin: 0 15px;
     }
+
     .founder_info {
         height: 956px;
         background-position: center top;
     }
+
     .founder_info strong {
         right: 31%;
         bottom: 27%;
         font-size: 20px;
     }
+
     .founder_info strong span {
         font-size: 18px;
     }
+
     .inner_page_content h3 {
         font-size: 35px;
         margin-bottom: 20px;
     }
+
     .inner_page_content h4 {
         font-size: 24px;
     }
+
     .inner_page_content {
         padding: 45px 0 50px;
     }
+
     .img_left {
         max-width: 456px;
         margin: 0 30px 30px 0;
     }
+
     .img_right {
         max-width: 456px;
         margin: 0 0 30px 30px;
     }
+
     .post_listing {
         max-width: 930px;
         padding: 0 15px;
     }
+
     .post_listing .rows2 .column2 h3 {
         font-size: 24px;
         line-height: 28px;
         margin-bottom: 10px;
     }
+
     .post_listing_panel {
         padding: 55px 0;
     }
+
     .post_listing .rows2 .column2 p {
         font-size: 17px;
         line-height: 28px;
@@ -3441,30 +3593,37 @@ font-family: 'Raleway', sans-serif;
         -ms-transition: all ease-in-out 0.2s !important;
         -o-transition: all ease-in-out 0.2s !important;
     }
+
     .header_nav.slideNav {
         right: 0;
     }
+
     .header_nav li {
         width: 100%;
         padding: 0;
         margin-bottom: 2px;
     }
+
     .header_nav li a {
         padding: 10px 15px;
     }
+
     .header_nav li a span {
         z-index: 1;
         position: relative;
     }
+
     .header_nav li a::after {
         bottom: unset;
         top: 0;
         height: 100%;
     }
+
     .header_nav li.active a,
     .header_nav li:hover a {
         color: #fff;
     }
+
     .header_nav li a::after {
         left: 0;
         transform: unset;
@@ -3473,6 +3632,7 @@ font-family: 'Raleway', sans-serif;
         -ms-transform: unset;
         -o-transform: unset;
     }
+
     a.mob_btn {
         font-family: 'FontAwesome';
         font-weight: normal;
@@ -3483,6 +3643,7 @@ font-family: 'Raleway', sans-serif;
         right: 15px;
         top: 21px;
     }
+
     a.menu_cls {
         font-family: 'FontAwesome';
         font-weight: normal;
@@ -3493,6 +3654,7 @@ font-family: 'Raleway', sans-serif;
         left: 11px;
         top: 11px;
     }
+
     .header {
         background: rgb(0 0 0 / 85%);
         padding: 10px 15px;
@@ -3500,13 +3662,16 @@ font-family: 'Raleway', sans-serif;
         position: fixed;
         z-index: 30;
     }
+
     .site_logo {
         width: 80px;
     }
+
     .h_r_btn {
         padding-top: 7px;
         padding-right: 40px;
     }
+
     .h_r_btn a {
         width: 84px;
         height: 34px;
@@ -3515,45 +3680,55 @@ font-family: 'Raleway', sans-serif;
         margin-left: 10px;
         border-radius: 10px;
     }
+
     .banner_content {
         padding: 94px 0 45px;
     }
+
     .banner_txt h1 {
         font-size: 30px;
         line-height: 50px;
         margin: 0 0 14px;
     }
+
     .banner_txt p {
         font-size: 17px;
         line-height: 32px;
         margin-bottom: 17px;
     }
+
     a.more_btn {
         font-size: 19px;
     }
+
     .group_panel {
         padding: 40px 0 60px;
     }
+
     .h_txt h2 {
         font-size: 34px;
         line-height: 60px;
         margin: 0 0 13px;
     }
+
     .h_txt h3 {
         font-size: 21px;
         line-height: 30px;
         margin: 0 0 20px;
     }
+
     .group_panel p {
         font-size: 18px;
         line-height: 36px;
     }
+
     .group_panel blockquote {
         padding: 60px 0;
         margin: 6px 0 40px;
         font-size: 21px;
         line-height: 38px;
     }
+
     a.button1 {
         width: 165px;
         height: 53px;
@@ -3561,90 +3736,114 @@ font-family: 'Raleway', sans-serif;
         padding: 0;
         line-height: 51px;
     }
+
     .insights_panel {
         height: 100%;
         padding: 50px 0 100px;
     }
+
     .insights_panel li {
         font-size: 23px;
         line-height: 54px;
     }
+
     .testimonial_panel {
         padding: 55px 0 50px;
     }
+
     .highlights_panel p {
         font-size: 18px;
     }
+
     .highlight_box h4 {
         font-size: 24px;
         line-height: 37px;
         margin-bottom: 20px;
     }
+
     .highlight_box p {
         font-size: 18px;
         line-height: 35px;
         margin: 0 0 20px;
     }
+
     .highlights_panel {
         padding: 60px 0;
     }
+
     .custom_panel1 p {
         font-size: 21px;
         line-height: 40px;
         margin-bottom: 35px;
     }
+
     .custom_panel1 {
         padding: 60px 0;
     }
+
     .footer_nav {
         padding-bottom: 16px;
     }
+
     .footer_nav a {
         font-size: 17px;
         line-height: 22px;
     }
+
     .social_follow {
         padding-bottom: 40px;
     }
+
     .social_follow a {
         width: 35px;
         height: 35px;
         margin: 0 8px;
     }
+
     .social_follow a img {
         width: 35px;
         height: 35px;
     }
+
     .footer {
         padding: 50px 0 30px;
     }
+
     .footer_logo {
         padding-bottom: 27px;
     }
+
     .footer_logo a {
         width: 150px;
     }
+
     .footer p {
         font-size: 15px;
     }
+
     .highlights_slider {
         max-width: 700px;
     }
+
     .highlights_slider .slick-prev,
     .highlights_slider .slick-next {
         top: 115px;
     }
+
     .inner_page .banner_content.odd {
         padding: 100px 0 45px;
     }
+
     .c_tab_container .rows {
         margin: 0 -1.5%;
     }
+
     .c_tab_container .column {
         width: 43%;
         height: 420px;
         margin: 0 1.5% 30px;
     }
+
     .c_tab_container .column h3 {
         height: auto;
         font-size: 26px;
@@ -3652,12 +3851,15 @@ font-family: 'Raleway', sans-serif;
         padding: 17px 20px;
         margin-bottom: 20px;
     }
+
     .c_tab_container .column ul {
         padding: 0 20px;
     }
+
     .c_tab_container .column li {
         padding: 0 0 15px 20px;
     }
+
     .c_tab_container .column a.subs_btn {
         width: 155px;
         height: 51px;
@@ -3666,42 +3868,53 @@ font-family: 'Raleway', sans-serif;
         margin-right: 20px;
         line-height: 32px;
     }
+
     .c_tab_container .column span {
         font-size: 30px;
         line-height: 45px;
         padding: 0 0 0 20px;
     }
+
     .c_tab_container .column span sub {
         font-size: 20px;
     }
+
     .inner_page_content {
         padding: 30px 0 50px;
     }
+
     .banner_content.padding {
         padding: 110px 0 30px !important;
     }
+
     .line {
         height: 2px;
         margin: 19px 0 40px;
     }
+
     .inner_page_content h4 {
         font-size: 22px;
         line-height: 25px;
     }
+
     .inner_page_content ol {
         padding: 0 40px;
     }
+
     .page_link li {
         padding: 0 20px;
         font-size: 17px;
     }
+
     .img_full {
         margin-bottom: 23px;
     }
+
     .img_left,
     .img_right {
         max-width: 265px;
     }
+
     .post_listing .rows2 .column2 p {
         font-size: 16px;
     }
@@ -3713,74 +3926,92 @@ font-family: 'Raleway', sans-serif;
         float: none;
         margin: 0 auto 20px;
     }
+
     .banner_txt {
         width: 100%;
         clear: both;
     }
+
     .highlights_slider {
         max-width: 600px;
     }
+
     .highlights_slider .slick-prev,
     .highlights_slider .slick-next {
         top: 92px;
     }
+
     .testimonial_slider p {
         padding: 60px 70px;
     }
+
     .inner_page .banner_content {
         padding: 90px 0 50px;
     }
+
     .inner_page h1 {
         font-size: 34px;
         line-height: 41px;
         margin: 0 0 15px;
     }
+
     .inner_page h2 {
         font-size: 25px;
         line-height: 35px;
         margin-bottom: 15px;
     }
+
     .inner_page strong {
         font-size: 21px;
         line-height: 34px;
         margin: 0 0 15px;
     }
+
     .inner_page p {
         font-size: 18px;
         line-height: 33px;
     }
+
     .custom_panel2 {
         padding: 30px 0 40px;
     }
+
     .custom_panel2 p,
     .founder_info p {
         font-size: 18px;
         line-height: 34px;
     }
+
     .founder_info {
         padding: 45px 0;
     }
+
     .founder_info {
         height: 780px;
     }
+
     .inner_page figure {
         width: 300px;
         float: none;
         margin: 42px auto 20px;
     }
+
     .inner_page .txt_box {
         width: 100%;
     }
+
     .inner_page .txt_box p {
         font-size: 18px;
         line-height: 34px;
     }
+
     .c_tab_container .rows {
         margin: 0;
         padding: 0 20px;
         width: 100%;
         float: left;
     }
+
     .c_tab_container .column {
         width: 100%;
         max-width: 400px;
@@ -3789,35 +4020,43 @@ font-family: 'Raleway', sans-serif;
         float: none;
         padding-bottom: 80px;
     }
+
     .membership_panel {
         padding: 60px 0 50px;
     }
+
     .inner_page_content h3 {
         font-size: 30px;
         line-height: 40px;
     }
+
     .c_tab_btn.odd {
         margin-bottom: 40px;
     }
+
     .inner_page_content p,
     .inner_page_content li {
         font-size: 18px;
         line-height: 30px;
         margin: 0 0 16px;
     }
+
     .inner_page_content h3 {
         font-size: 27px;
         line-height: 34px;
     }
+
     .post_listing .rows2 {
         margin: 0;
     }
+
     .post_listing .rows2 .column2 {
         width: 100%;
         max-width: 360px;
         float: none;
         margin: 0 auto 40px;
     }
+
     .post_listing .rows2 .column2 h3 {
         height: auto !important;
     }
@@ -3829,13 +4068,16 @@ font-family: 'Raleway', sans-serif;
         line-height: 39px;
         padding: 60px 0;
     }
+
     .highlights_slider {
         max-width: 480px;
     }
+
     .highlight_box h4 {
         font-size: 21px;
         line-height: 32px;
     }
+
     .founder_info strong {
         float: left;
         right: unset;
@@ -3844,17 +4086,21 @@ font-family: 'Raleway', sans-serif;
         width: 100%;
         text-align: center;
     }
+
     .founder_info strong span {
         font-size: 16px;
         line-height: 24px;
     }
+
     .input_field input {
         font-size: 16px;
     }
+
     .modal-body p {
         font-size: 18px;
         line-height: 28px;
     }
+
     .img_left,
     .img_right {
         max-width: 155px;
@@ -3865,41 +4111,51 @@ font-family: 'Raleway', sans-serif;
     .banner_img {
         width: 70%;
     }
+
     .h_txt h2 {
         font-size: 30px;
         line-height: 50px;
         margin: 0 0 8px;
     }
+
     .insights_panel li {
         font-size: 19px;
         line-height: 43px;
     }
+
     .testimonial_slider p {
         font-size: 20px;
         line-height: 34px;
     }
+
     .testimonial_slider strong {
         font-size: 20px;
         line-height: 25px;
     }
+
     .highlights_slider {
         max-width: unset;
         padding: 0 40px;
     }
+
     .highlights_slider .slick-prev {
         top: 106px;
         left: 8px;
     }
+
     .highlights_slider .slick-next {
         top: 106px;
         right: 8px;
     }
+
     .highlights_slider .slick-dots {
         margin-top: 10px;
     }
+
     .modal-dialog {
         max-width: 370px;
     }
+
     .modal-header {
         height: 75px;
         padding: 15px 25px;
@@ -3907,25 +4163,31 @@ font-family: 'Raleway', sans-serif;
         line-height: 42px;
         margin-bottom: 10px;
     }
+
     .modal-body {
         padding: 0 30px 8px 15px;
     }
+
     .input_field input {
         height: 55px;
         padding: 15px 20px;
     }
+
     .required::after {
         right: -20px;
         bottom: 21px;
     }
+
     .remember {
         margin-bottom: 20px;
     }
+
     a.forgot_pass {
         float: none;
         text-align: center;
         clear: both;
     }
+
     .verify_code input {
         width: 40px;
         height: 60px;
@@ -3933,10 +4195,12 @@ font-family: 'Raleway', sans-serif;
         line-height: 24px;
         margin: 0 6px;
     }
+
     .modal-body p.txt {
         font-size: 15px;
         line-height: 23px;
     }
+
     .modal-footer input {
         min-width: 180px;
         height: 54px;
@@ -3944,6 +4208,7 @@ font-family: 'Raleway', sans-serif;
         line-height: 33px;
         padding: 10px 25px;
     }
+
     .img_left,
     .img_right {
         max-width: 100%;
@@ -3955,20 +4220,25 @@ font-family: 'Raleway', sans-serif;
     .banner_img {
         width: 100%;
     }
+
     .h_txt h3 {
         font-size: 18px;
     }
+
     .insights_panel li {
         font-size: 20px;
         line-height: 51px;
         width: 100%;
     }
+
     .highlights_slider .slick-dots {
         margin-top: 10px;
     }
+
     .modal-dialog {
         max-width: 350px;
     }
+
     .gender {
         width: 100%;
         float: left;
@@ -3976,28 +4246,34 @@ font-family: 'Raleway', sans-serif;
         position: relative;
         margin-bottom: -20px;
     }
+
     .gender label {
         font-size: 16px;
     }
+
     .input_field strong {
         font-size: 15px;
         padding: 2px 10px;
         left: 24px;
         top: 13px;
     }
+
     .modal-body p.txt {
         font-size: 15px;
         line-height: 25px;
         padding-left: 27px;
         margin: 0 0 0 13px;
     }
+
     .modal-body p.txt img {
         top: 6px;
     }
+
     .verify_code input {
         width: 38px;
         height: 54px;
     }
+
     a.recent_code {
         float: none;
         width: 100%;
